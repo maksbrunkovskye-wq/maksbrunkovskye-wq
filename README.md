@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I’m Maksym</h1>
+<p align="center">
+  Python beginner • GitHub portfolio
+</p>
 
-<!--
-**maksbrunkovskye-wq/maksbrunkovskye-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 My Projects
+- Car Budget Planner (Python) — terminal budget calculator
+- Ball-Game (Tkinter) — simple arcade game
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills (Beginner)
+- Python (functions, loops, if/else)
+- Git & GitHub (basic)
+- Tkinter (basic)
+
+## 🎯 Goal
+I want to start an Ausbildung in IT and grow step by step into software development.
+
+## 📫 Contact
+- Email: maksymbrunkovskyi@gmail.com
