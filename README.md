@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I’m Maksym</h1>
 <p align="center">
-  Python beginner • GitHub portfolio
+  Aspiring Software Developer
 </p>
 
 ---
